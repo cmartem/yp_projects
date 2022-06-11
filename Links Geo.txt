@@ -1,0 +1,3 @@
+Folium → https://dev-gang.ru/article/interaktivnaja-vizualizacija-geo-dannyh-na-python-9yqzq8qlud/  
+GeoCoder →  https://pypi.org/project/yandex-geocoder/  
+Dadata → https://pypi.org/project/dadata/  
