@@ -1,0 +1,7 @@
+import pandas as pd
+!pip install missingno
+import missingno as msno
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from IPython.display import display
+pd.options.display.max_columns = None
